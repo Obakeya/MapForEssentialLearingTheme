@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T02:05:57.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="tzABUt36BWWFRIqDM59u" version="13.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-18T02:24:24.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="fLtOzNxHDWa124jIRiVz" version="13.4.6" type="github" pages="2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="3082" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3509" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-140" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6hdnbnRem8cZN1kFiB1w-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-530" y="668" as="sourcePoint" />
+            <mxPoint x="70" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
         </mxCell>
@@ -47,7 +53,7 @@
           <mxGeometry x="438" y="445.5" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="-29.999999999999986" y="255.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="-30" y="310" width="123" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Head of Development" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="788" y="185.5" width="190" height="80" as="geometry" />
@@ -64,7 +70,7 @@
         <mxCell id="10" value="1対複数" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="978" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QBgoFv1q9CA9GYNlwteV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12">
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="892.5729986976421" y="432.25499999999965" as="targetPoint" />
           </mxGeometry>
@@ -76,7 +82,7 @@
           <mxGeometry x="138" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="14" value="家づくり" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="-73" y="445.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="-260" y="445.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="268" y="455.5" width="130" height="60" as="geometry" />
@@ -111,7 +117,7 @@
         <mxCell id="29" value="SSI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="623" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QBgoFv1q9CA9GYNlwteV-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.323;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="30" target="12">
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.323;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="30" target="12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="30" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -553,38 +559,69 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="15" edge="1">
-          <mxGeometry x="8" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="130" y="546" as="sourcePoint" />
-            <mxPoint x="140" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="560" />
-            </Array>
+          <mxGeometry x="-152" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-30" y="546" as="sourcePoint" />
+            <mxPoint x="-20" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBgoFv1q9CA9GYNlwteV-127" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="QBgoFv1q9CA9GYNlwteV-126">
-          <mxGeometry x="18" y="145.5" width="100" height="100" as="geometry">
-            <mxPoint x="132" y="525.5" as="sourcePoint" />
-            <mxPoint x="132" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-70" y="550" />
-            </Array>
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-127" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="QBgoFv1q9CA9GYNlwteV-126" edge="1">
+          <mxGeometry x="-142" y="145.5" width="100" height="100" as="geometry">
+            <mxPoint x="-28" y="525.5" as="sourcePoint" />
+            <mxPoint x="-28" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="15" value="空調・温度管理" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="57" y="590" width="130" height="70.5" as="geometry" />
+          <mxGeometry x="-103" y="590" width="130" height="70.5" as="geometry" />
         </mxCell>
-        <mxCell id="QBgoFv1q9CA9GYNlwteV-126" value="掃除" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="-210" y="655" width="130" height="70.5" as="geometry" />
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-126" value="掃除&#xa;" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-420" y="590" width="130" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-127" value="&lt;ul&gt;&lt;li&gt;エアコン1台で心地よい家を作る方法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="645.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-128" value="家具配置&#xa;収納デザイン" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="-260" y="590" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="6hdnbnRem8cZN1kFiB1w-128">
+          <mxGeometry x="-142" y="145.5" width="100" height="100" as="geometry">
+            <mxPoint x="-185" y="515.5" as="sourcePoint" />
+            <mxPoint x="-28" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-131" value="&lt;ul&gt;&lt;li&gt;人生が変わる片付けの魔法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="585.5" width="120" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-133" value="洗濯" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="745" width="130" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-144" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBgoFv1q9CA9GYNlwteV-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-355" y="660.5" as="sourcePoint" />
+            <mxPoint x="-290" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-145" value="&lt;ul&gt;&lt;li&gt;人生が変わる片付けの魔法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="645.5" width="120" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="6hdnbnRem8cZN1kFiB1w-133" target="6hdnbnRem8cZN1kFiB1w-133">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2TDu3ymEYU3fCxOXnfvl" name="Page-2">
+    
     <mxGraphModel dx="997" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="NIvK4az-cZyA-5AlKXTI-0" />
+        
         <mxCell id="NIvK4az-cZyA-5AlKXTI-1" parent="NIvK4az-cZyA-5AlKXTI-0" />
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
 </mxfile>
