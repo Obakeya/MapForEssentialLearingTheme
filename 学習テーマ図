@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2020-12-06T03:21:32.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="KsnGJePtlPIwxwusJpUq" version="13.10.9" type="github" pages="2">
+  <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
+    <mxGraphModel dx="3670" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="830" y="-430" width="190" height="1572.25" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="310" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="仕事" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="610" y="175.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="家づくり" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-260" y="445.5" width="130" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="15" edge="1">
+          <mxGeometry x="-152" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-30" y="546" as="sourcePoint" />
+            <mxPoint x="-20" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-127" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="QBgoFv1q9CA9GYNlwteV-126" edge="1">
+          <mxGeometry x="-142" y="145.5" width="100" height="100" as="geometry">
+            <mxPoint x="-28" y="525.5" as="sourcePoint" />
+            <mxPoint x="-28" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="空調・温度管理" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="130" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QBgoFv1q9CA9GYNlwteV-126" value="掃除&#xa;" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-420" y="590" width="130" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-127" value="&lt;ul&gt;&lt;li&gt;エアコン1台で心地よい家を作る方法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="18" y="655" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-128" value="家具配置&#xa;収納デザイン" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-260" y="590" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="6hdnbnRem8cZN1kFiB1w-128" edge="1">
+          <mxGeometry x="-142" y="145.5" width="100" height="100" as="geometry">
+            <mxPoint x="-185" y="515.5" as="sourcePoint" />
+            <mxPoint x="-28" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-131" value="&lt;ul&gt;&lt;li&gt;人生が変わる片付けの魔法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="700" width="120" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-133" value="家庭生活" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="240" y="500" width="70" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-144" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QBgoFv1q9CA9GYNlwteV-126" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-355" y="660.5" as="sourcePoint" />
+            <mxPoint x="-290" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hdnbnRem8cZN1kFiB1w-145" value="&lt;ul&gt;&lt;li&gt;人生が変わる片付けの魔法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="660.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-123" value="洗濯" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="600" width="130" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-124" value="結婚" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="569.75" width="70" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-125" value="子育て" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="569.75" width="70" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-126" value="日本人女性の立場" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="579.87" width="130" height="40.13" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-128" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度1 → 白&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度2 → グレー　&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度3 → 黒&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="130" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-129" value="&lt;ul&gt;&lt;li&gt;洗濯ブラザーズによる正しい洗濯方法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="630" width="150" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-132" value="&lt;ul&gt;&lt;li&gt;83年生まれキム・ジヨン&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-134" value="片付け・整理術" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="-112" y="600" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-135" value="同棲生活" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="569.75" width="70" height="30.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2TDu3ymEYU3fCxOXnfvl" name="Page-2">
+    <mxGraphModel dx="997" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NIvK4az-cZyA-5AlKXTI-0" />
+        <mxCell id="NIvK4az-cZyA-5AlKXTI-1" parent="NIvK4az-cZyA-5AlKXTI-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
