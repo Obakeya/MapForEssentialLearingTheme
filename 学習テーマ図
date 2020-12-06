@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T03:21:32.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="KsnGJePtlPIwxwusJpUq" version="13.10.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-06T03:25:58.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="bwkT8HzDzfOC1nlroRkp" version="13.10.9" type="github" pages="2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="3670" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3430" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,14 +67,14 @@
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-123" value="洗濯" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-580" y="600" width="130" height="30.25" as="geometry" />
         </mxCell>
-        <mxCell id="NJlV4i-gJLW1EYv-wSW1-124" value="結婚" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-124" value="結婚生活" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="569.75" width="70" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-125" value="子育て" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="569.75" width="70" height="30.25" as="geometry" />
+          <mxGeometry x="510" y="569.75" width="70" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-126" value="日本人女性の立場" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="579.87" width="130" height="40.13" as="geometry" />
+          <mxGeometry x="620" y="559.87" width="130" height="40.13" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-128" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度1 → 白&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度2 → グレー　&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度3 → 黒&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-450" y="130" width="230" height="70" as="geometry" />
@@ -83,13 +83,19 @@
           <mxGeometry x="-590" y="630" width="150" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-132" value="&lt;ul&gt;&lt;li&gt;83年生まれキム・ジヨン&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="604.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-134" value="片付け・整理術" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="-112" y="600" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-135" value="同棲生活" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="230" y="569.75" width="70" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-137" value="結婚と経済" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="569.75" width="90" height="30.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NJlV4i-gJLW1EYv-wSW1-138" value="&lt;ul&gt;&lt;li&gt;わいことヒトミさん&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;perimeterSpacing=3;spacing=-2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="590" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
