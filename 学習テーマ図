@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T03:29:35.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="abdVf1Ag2Jh29lbP-ABW" version="13.10.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-06T06:10:53.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36" etag="BfILYdeP_Ka3DCO6046s" version="13.10.9" type="github" pages="2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3430" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1390" pageHeight="980" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-430" width="190" height="1572.25" as="geometry" />
+          <mxGeometry x="138" y="-590" width="190" height="1572.25" as="geometry" />
         </mxCell>
         <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="-30" y="310" width="123" height="80" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="620" y="559.87" width="130" height="40.13" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-128" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度1 → 白&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度2 → グレー　&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;抽象度3 → 黒&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="130" width="230" height="70" as="geometry" />
+          <mxGeometry x="-440" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-129" value="&lt;ul&gt;&lt;li&gt;洗濯ブラザーズによる正しい洗濯方法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-590" y="630" width="150" height="54.5" as="geometry" />
@@ -97,14 +97,20 @@
         <mxCell id="NJlV4i-gJLW1EYv-wSW1-138" value="&lt;ul&gt;&lt;li&gt;わいことヒトミさん&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;perimeterSpacing=3;spacing=-2;" parent="1" vertex="1">
           <mxGeometry x="290" y="590" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hlp539mcIGQIKcs4j7MT-123" value="死" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="hlp539mcIGQIKcs4j7MT-123" value="死" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="890" y="559.87" width="70" height="40.13" as="geometry" />
         </mxCell>
-        <mxCell id="hlp539mcIGQIKcs4j7MT-124" value="なぜ今自分がここにいるのか" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="hlp539mcIGQIKcs4j7MT-124" value="なぜ今自分がここにいるのか" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontStyle=1;fontFamily=Tahoma;fontSize=14;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="990" y="540" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hlp539mcIGQIKcs4j7MT-125" value="&lt;ul&gt;&lt;li&gt;進撃の巨人&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;spacing=0;" vertex="1" parent="1">
+        <mxCell id="hlp539mcIGQIKcs4j7MT-125" value="&lt;ul&gt;&lt;li&gt;進撃の巨人&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="610.25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42RTZmx7vEfKYD28Owl_-124" value="人生論" style="rounded=1;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="42RTZmx7vEfKYD28Owl_-125" value="&lt;ul&gt;&lt;li&gt;それでも人生にイエスという&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;perimeterSpacing=3;spacing=-2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="5" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
